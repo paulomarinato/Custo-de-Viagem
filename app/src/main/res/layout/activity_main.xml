@@ -54,7 +54,6 @@
         android:hint="@string/km_per_liter" />
 
     <TextView
-        android:id="@+id/text_total_value"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="32dp"
@@ -64,14 +63,15 @@
         android:textSize="20sp" />
 
     <TextView
+        android:id="@+id/text_total_value"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
         android:gravity="center"
-        android:hint="@string/total_valeu"
+        android:hint="@string/text_total_value"
         android:textAllCaps="true"
-        android:textColorHint="@color/purple_700"
-        android:textSize="38sp" />
+        android:textColorHint="@color/purple_500"
+        android:textSize="38sp"/>
 
     <Button
         android:id="@+id/buton_calculete"

@@ -7,6 +7,7 @@
     <string name="autonomy">Autonomia</string>
     <string name="km_per_liter">KM por Litro</string>
     <string name="total_spend">Seu gasto Total será De:</string>
-    <string name="total_valeu">R$ 0</string>
+    <string name="text_total_value">R$ 0</string>
     <string name="calculate">CALCULAR</string>
+    <string name="validation_fill_all_fields">Preencha todos os campos.</string>
 </resources>
